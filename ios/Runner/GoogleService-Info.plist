@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>460112407414-fread8jkulmunh2m8ihf77ohchduejud.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.460112407414-fread8jkulmunh2m8ihf77ohchduejud</string>
+	<key>API_KEY</key>
+	<string>AIzaSyASygRIiDNtBQoY2SHL0VqcCA1-wYxtDL4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>460112407414</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.liveasy</string>
+	<key>PROJECT_ID</key>
+	<string>liveasy-2000</string>
+	<key>STORAGE_BUCKET</key>
+	<string>liveasy-2000.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:460112407414:ios:c2a293a7d669b0ff7be857</string>
+</dict>
+</plist>
